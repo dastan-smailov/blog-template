@@ -7,7 +7,7 @@
 
 /* Main elements */
 
-article:last-of-type  hr {
+article.posts:last-of-type  hr {
 	display: none;
 }
 
